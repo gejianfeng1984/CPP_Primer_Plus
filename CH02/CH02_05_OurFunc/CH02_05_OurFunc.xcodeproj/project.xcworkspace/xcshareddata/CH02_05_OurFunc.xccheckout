@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E38A779A-0162-4CFE-8906-AF86C3F4F1C7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CH02_05_OurFunc</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BEA018F1-234C-4784-8394-A3B6A40613EE</key>
+		<string>https://github.com/gejianfeng1984/CPP_Primer_Plus.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CH02/CH02_05_OurFunc/CH02_05_OurFunc.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BEA018F1-234C-4784-8394-A3B6A40613EE</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/gejianfeng1984/CPP_Primer_Plus.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BEA018F1-234C-4784-8394-A3B6A40613EE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BEA018F1-234C-4784-8394-A3B6A40613EE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CPP_Primer_Plus</string>
+		</dict>
+	</array>
+</dict>
+</plist>
