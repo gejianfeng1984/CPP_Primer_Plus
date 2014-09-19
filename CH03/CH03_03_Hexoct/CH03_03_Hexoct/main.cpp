@@ -1,0 +1,26 @@
+//
+//  main.cpp
+//  CH03_03_Hexoct
+//
+//  Created by Ge Jian Feng on 14-9-20.
+//  Copyright (c) 2014年 Ge Jian Feng. All rights reserved.
+//
+
+#include <iostream>
+
+int main(int argc, const char * argv[])
+{
+    using namespace std;
+    
+    int chest = 42;
+    int waist = 0x42;
+    int inseam = 042;
+    
+    cout << "Monsieur cuts a striking figure!\n";
+    cout << "chest = " << chest << " (42 in decimal)\n";
+    cout << "waist = " << waist << " (0x42 in hex)\n";
+    cout << "inseam = " << inseam << " (042 in octal)\n";
+    
+    return 0;
+}
+
