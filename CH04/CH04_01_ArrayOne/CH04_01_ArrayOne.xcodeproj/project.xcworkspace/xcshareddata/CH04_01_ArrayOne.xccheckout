@@ -5,16 +5,16 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>7D669B93-B4DD-49FE-ABF9-37633E5DE6D8</string>
+	<string>86931DC8-DEC9-47AC-8F2D-1537D82DC716</string>
 	<key>IDESourceControlProjectName</key>
-	<string>CH03_08_FloatNum</string>
+	<string>CH04_01_ArrayOne</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>A7E935A86869ADD07E9649F7DA729F4D2DFEE9A7</key>
 		<string>https://github.com/gejianfeng1984/CPP_Primer_Plus.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>CH03/CH03_08_FloatNum/CH03_08_FloatNum.xcodeproj/project.xcworkspace</string>
+	<string>CH04/CH04_01_ArrayOne/CH04_01_ArrayOne.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>A7E935A86869ADD07E9649F7DA729F4D2DFEE9A7</key>
